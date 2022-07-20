@@ -1,1 +1,1 @@
-# Coding_Test_with_JavaScript
+### This folder is a collection of Coding Test Algorithms that I solved with JavaScript
