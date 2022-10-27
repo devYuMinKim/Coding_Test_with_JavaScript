@@ -1,0 +1,71 @@
+[매개변수]
+ a: string
+ b: string
+
+
+[리턴타입]
+ string
+
+
+[예제용]
+
+ - 입력값
+  a: 'Tom Marvolo Riddle'
+  b: 'I am Lord Voldemort.'
+
+ - 출력값
+  'YES'
+
+
+[채점용]
+
+ - 입력값1
+  a: '.HELLO.'
+  b: ',hello!'
+
+ - 출력값1
+  'NO'
+
+
+ - 입력값2
+  a: 'Got More Raves?'
+  b: 'Groove Master'
+
+ - 출력값2
+  'YES'
+
+
+ - 입력값3
+  a: 'ABCDE'
+  b: 'dbcaee'
+
+ - 출력값3
+  'NO'
+
+
+ - 입력값4
+  a: 'PERMISSION TO DANCE'
+  b: 'Stories on Pandemic'
+
+
+ - 출력값4
+  'YES'
+
+
+ - 입력값5
+  a: 'Maokai!'
+  b: 'I.am.oak?'
+
+ - 출력값5
+  'YES'
+
+
+ - 입력값6
+  a: 'Listen!'
+  b: 'Silents...'
+
+ - 출력값6
+  'NO'
+
+
+ 
